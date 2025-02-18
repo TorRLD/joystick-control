@@ -112,7 +112,7 @@ Para auxiliar na compreensão do funcionamento do filtro EMA, deadzone e calibra
 
 ### Gráficos da Aplicação do Filtro, DEADZONE e OFFSET
 
-[![](images\filtro_offset_deadzone.png)]()
+![1739907226027](image/readme/1739907226027.png)
 
 ---
 
