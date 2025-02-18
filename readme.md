@@ -1,5 +1,9 @@
 # Controle de Posição Utilizando Joystick
 
+## Vídeo de Demonstração:
+
+[Vídeo no Youtube](https://www.youtube.com/watch?v=yfMyaNfmFMA)
+
 Este projeto implementa um sistema de controle de posição utilizando um joystick na plataforma BitDogLab com Raspberry Pi Pico. O firmware em C realiza as seguintes funcionalidades:
 
 * **Controle de LEDs RGB via PWM:**
