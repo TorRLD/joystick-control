@@ -110,9 +110,9 @@ git clone https://github.com/TorRLD/joystick-control.git
 
 Para auxiliar na compreensão do funcionamento do filtro EMA, deadzone e calibração, foram gerados gráficos comparando o sinal bruto, o sinal filtrado com EMA, e o sinal após a aplicação da deadzone e calibração.
 
-### Exemplo de Gráfico
+### Gráficos da Aplicação do Filtro, DEADZONE e OFFSET
 
-[![1739906813960](image/readme/1739906813960.png)]()
+[![](images\filtro_offset_deadzone.png)]()
 
 ---
 
