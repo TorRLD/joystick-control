@@ -112,7 +112,7 @@ Para auxiliar na compreensão do funcionamento do filtro EMA, deadzone e calibra
 
 ### Exemplo de Gráfico
 
-![Gráfico ADC](images\filtro_offset_deadzone.png)
+[![1739906813960](image/readme/1739906813960.png)]()
 
 ---
 
